@@ -1,8 +1,5 @@
 streamlit
 langchain
-
-dotenv
-os
 langchain_groq
 langchain_community
 wikipedia
