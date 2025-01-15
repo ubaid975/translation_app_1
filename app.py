@@ -3,7 +3,7 @@ import streamlit as st
 import streamlit as st
 import langchain
 from langchain.prompts import PromptTemplate,ChatPromptTemplate
-from langchain_google_genai import ChatGoogleGenerativeAI
+
 
 import os
 from langchain_groq import ChatGroq
