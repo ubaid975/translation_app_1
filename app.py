@@ -7,7 +7,7 @@ from langchain.prompts import PromptTemplate,ChatPromptTemplate
 
 import os
 from langchain_groq import ChatGroq
-load_dotenv()
+
 api_url = "http://your-chatgroq-model-api-endpoint.com"  # ChatGroq API endpoint
 api=os.getenv('groq_api')
 
